@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-Cloud Engineer with proven expertise across **Multi-Cloud**, **Kubernetes**, **DevOps**, and **.NET on AWS** — specializing in building **secure, scalable, and cost-optimized** cloud architectures that support high-availability enterprise systems.
+Cloud Engineer with hands-on expertise in AWS, DevOps, and Site Reliability Engineering, focused on building scalable, secure, and high-performing cloud infrastructures. I specialize in automating deployments, optimizing system uptime, and implementing cloud-native solutions that streamline development workflows and improve operational efficiency..
 
 I lead end-to-end CI/CD pipeline implementations, infrastructure automation, and cloud-native transformations using Infrastructure as Code, containerization, and orchestration tools while championing DevSecOps practices, monitoring and observability, and cross-functional collaboration to accelerate delivery, ensure reliability, and drive continuous improvement.
 
