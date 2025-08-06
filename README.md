@@ -30,13 +30,3 @@ I lead end-to-end CI/CD pipeline implementations, infrastructure automation, and
 - 📫 Email: [spatil0598@gmail.com](mailto:spatil0598@gmail.com)
 
 ---
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamp0598&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shubhamp0598&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
