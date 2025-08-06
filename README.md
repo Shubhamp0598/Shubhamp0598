@@ -24,9 +24,9 @@ I lead end-to-end CI/CD pipeline implementations, infrastructure automation, and
 
 ### 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shubhampatil5)
-- 📝 [Medium](https://medium.com/@patilshubham0598)
-- 💻 [GitHub](https://github.com/Shubhamp0598)
+- 💼 [LinkedIn]: [linkedin.com/in/shubhampatil5](https://www.linkedin.com/in/shubhampatil5)
+- 📝 [Medium]: [medium.com/@patilshubham0598](https://medium.com/@patilshubham0598)
+- 💻 [GitHub]: [github.com/Shubhamp0598](https://github.com/Shubhamp0598)
 - 📫 Email: [spatil0598@gmail.com](mailto:spatil0598@gmail.com)
 
 ---
